@@ -14,6 +14,6 @@ After Adding file you need to add  <b>include-html</b> attribute to your Tag or 
 
 <b>Step 3 :</b>
 For Example :
-<div include-html="footer.html" id="footer_file"></div>
-
+  <b>include-html</b>="file.html" <b>id</b>="unique_id"
+  
 Such a way you can add html file into another html file.
