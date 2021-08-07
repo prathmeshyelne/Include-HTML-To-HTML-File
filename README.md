@@ -18,3 +18,15 @@ For Example :
   <b>include-html</b>="file.html" <b>id</b>="unique_id"
   
 Such a way you can add html file into another html file.
+
+
+<h3>Follow on Social Media:</h3>
+<b>LinkedIn :</b> https://linkedin.com/in/prathmeshyelne
+
+<b>Facebook :</b> https://www.facebook.com/prathmeshyelane
+
+<b>Instagram :</b> https://instagram.com/prathameshyelane
+
+<b>Twitter :</b> https://instagram.com/prathmeshyelne
+
+
