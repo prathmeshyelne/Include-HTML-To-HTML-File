@@ -9,3 +9,5 @@ You can add html file to another html file, Just Follow Steps :
 First you need to add <b> include-html.min.js </b> File to your code.
 
 <b>Step 2 :</b>
+After Adding file you need to add  <b>include-html</b> attribute to your Tag or Element ( div, p, span ...etc) with <b>id</b> attribute specifies a unique id for an HTML element.
+
